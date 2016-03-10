@@ -1,0 +1,97 @@
+﻿hr {
+    border: none;
+    color: white;
+    background-color: white;
+    height: 1px;
+   }
+body{
+margin-top:0;
+margin-left:0;
+margin-right:0;
+margin-bottom:0;
+padding:0;
+background: url(left.png) repeat-y,
+			url(right.png) 100% 0 repeat-y;
+			background-color: #dddddd;
+}
+a {
+	font-family: Droid Sans;
+	font-size: 12pt;
+	text-decoration: none;
+	color: #dddddd;
+}
+a1 {
+	font-family: Droid Sans;
+	font-size: 12pt;
+	text-decoration: none;
+	color: #ff6600;
+	word-break: break-all;
+}
+b1 {font-family: Droid Sans Bold;
+	font-size: 14pt;
+	text-decoration: none;
+	color: black
+}
+h {
+	font-family: Droid Sans;
+	font-size: 12pt;
+	text-decoration: none;
+	color: black
+}
+#buton a{
+color: #ff6600;
+border-radius: 34px;
+background: #dddddd;
+padding: 6;
+transition: 1.2s linear;
+font-size: 42pt;
+position: relative;
+top: 0.3em;
+text-shadow: 3px 4px 8px rgba(0,0,0,0.4)
+}
+#buton a:hover{
+color: #dddddd;
+background: #ff6600;
+text-shadow: none
+}
+#buton a:active{
+color: #dddddd;
+background: #ff6600;
+}
+#menu{
+	margin-top:30;
+}
+#menu a{
+	color: black;
+}
+#menu a:hover{
+	color: #ff6600;
+	transition: 0.2s linear;
+}
+#menu a:active{
+	color: #ff6600;
+}
+#menu b1:hover{
+	color: #ff6600;
+	transition: 0.2s linear;
+}
+#menu b1:active{
+	color: #ff6600;
+}
+.POLOSKA{
+	background-color: #ff6600;
+	width: 100%;
+	height: 100px;
+}
+.PLASHKA {
+    background-color: white;
+	margin-top:50;
+    margin-left:22%;
+    margin-right:22%;
+	margin-bottom:42;
+	padding:25;
+    box-shadow: 12px 12px 22px rgba(0,0,0,0.5);
+}
+.PLASHKA a{
+	color: #ff6600;
+}
