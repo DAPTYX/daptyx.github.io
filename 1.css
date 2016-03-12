@@ -38,16 +38,14 @@ h {
 	text-decoration: none;
 	color: black
 }
-#buton{
-position: relative;
-padding: 6;
-border-radius: 34px;
-}
 #buton a{
 color: #ff6600;
+border-radius: 34px;
 background: #dddddd;
+padding: 6;
 transition: 1.2s linear;
 font-size: 42pt;
+position: relative;
 top: 0.3em;
 text-shadow: 3px 4px 8px rgba(0,0,0,0.4)
 }
